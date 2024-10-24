@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/payu_checkoutpro_flutter-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/payu_checkoutpro_flutter-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/payu_checkoutpro_flutter-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/payu_checkoutpro_flutter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/payu_checkoutpro_flutter-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/payu_checkoutpro_flutter-master.swiftdeps"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/payu_checkoutpro_flutter-1.0.4/ios/Classes/SwiftPayuCheckoutproFlutterPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/SwiftPayuCheckoutproFlutterPlugin.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/SwiftPayuCheckoutproFlutterPlugin.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/payu_checkoutpro_flutter.build/Objects-normal/arm64/SwiftPayuCheckoutproFlutterPlugin.o"
+  }
+}

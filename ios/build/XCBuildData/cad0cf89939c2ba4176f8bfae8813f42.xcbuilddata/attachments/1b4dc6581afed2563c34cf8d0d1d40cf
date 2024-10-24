@@ -1,0 +1,105 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromisesSwift-master.swiftdeps"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+All.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+All.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+All.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+All.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Always.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Always.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Always.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Always.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Any.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Any.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Any.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Any.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Async.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Async.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Async.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Async.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Await.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Await.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Await.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Await.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Catch.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Catch.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Catch.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Catch.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Delay.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Delay.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Delay.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Delay.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Do.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Do.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Do.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Do.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Race.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Race.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Race.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Race.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Recover.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Recover.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Recover.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Recover.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Reduce.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Reduce.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Reduce.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Reduce.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Retry.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Retry.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Retry.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Retry.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Testing.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Testing.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Testing.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Testing.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Then.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Then.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Then.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Then.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Timeout.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Timeout.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Timeout.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Timeout.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Validate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Validate.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Validate.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Validate.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/Promise+Wrap.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Wrap.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Wrap.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/Promise+Wrap.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/PromisesSwift/Sources/Promises/PromiseError.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromiseError.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromiseError.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/PromisesSwift.build/Objects-normal/arm64/PromiseError.o"
+  }
+}

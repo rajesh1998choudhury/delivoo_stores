@@ -1,0 +1,5 @@
+ extern const unsigned char background_locationVersionString[];
+ extern const double background_locationVersionNumber;
+
+ const unsigned char background_locationVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:background_location  PROJECT:Pods-1" "\n";
+ const double background_locationVersionNumber __attribute__ ((used)) = (double)1.;

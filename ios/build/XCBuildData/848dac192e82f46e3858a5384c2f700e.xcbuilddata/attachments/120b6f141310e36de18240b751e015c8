@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Release-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_callkit_incoming.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Release-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "flutter_callkit_incoming-Swift.h",
+      'external-contents': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_callkit_incoming.build/unextended-interface-header.h",
+    }]
+    }]
+}

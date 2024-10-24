@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/flutter_barcode_scanner-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/flutter_barcode_scanner-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/flutter_barcode_scanner-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/flutter_barcode_scanner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/flutter_barcode_scanner-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/flutter_barcode_scanner-master.swiftdeps"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_barcode_scanner-2.0.0/ios/Classes/SwiftFlutterBarcodeScannerPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/SwiftFlutterBarcodeScannerPlugin.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/SwiftFlutterBarcodeScannerPlugin.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/flutter_barcode_scanner.build/Objects-normal/arm64/SwiftFlutterBarcodeScannerPlugin.o"
+  }
+}

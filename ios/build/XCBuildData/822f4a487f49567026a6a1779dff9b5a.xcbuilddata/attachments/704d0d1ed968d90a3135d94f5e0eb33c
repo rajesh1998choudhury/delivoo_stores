@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/app_settings-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/app_settings-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/app_settings-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/app_settings-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/app_settings-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/app_settings-master.swiftdeps"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.2.0/ios/Classes/SwiftAppSettingsPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/SwiftAppSettingsPlugin.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/SwiftAppSettingsPlugin.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/app_settings.build/Objects-normal/arm64/SwiftAppSettingsPlugin.o"
+  }
+}

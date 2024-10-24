@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/shared_preferences_foundation-master.swiftdeps"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.3.3/ios/Classes/messages.g.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/messages.g.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/messages.g.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/messages.g.o"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.3.3/ios/Classes/SharedPreferencesPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/SharedPreferencesPlugin.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/SharedPreferencesPlugin.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/shared_preferences_foundation.build/Objects-normal/arm64/SharedPreferencesPlugin.o"
+  }
+}

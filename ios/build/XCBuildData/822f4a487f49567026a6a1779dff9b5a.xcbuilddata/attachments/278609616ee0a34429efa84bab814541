@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/background_location-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/background_location-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/background_location-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/background_location-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/background_location-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/background_location-master.swiftdeps"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/background_location-0.8.1/ios/Classes/SwiftBackgroundLocationPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/SwiftBackgroundLocationPlugin.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/SwiftBackgroundLocationPlugin.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/background_location.build/Objects-normal/arm64/SwiftBackgroundLocationPlugin.o"
+  }
+}

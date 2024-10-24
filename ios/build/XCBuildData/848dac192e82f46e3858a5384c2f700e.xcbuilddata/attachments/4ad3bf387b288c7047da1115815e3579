@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Release-iphoneos/FirebaseSessions/FirebaseSessions.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/FirebaseSessions.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Release-iphoneos/FirebaseSessions/FirebaseSessions.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FirebaseSessions-Swift.h",
+      'external-contents': "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/FirebaseSessions.build/unextended-interface-header.h",
+    }]
+    }]
+}

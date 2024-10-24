@@ -1,0 +1,575 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CryptoSwift-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CryptoSwift-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CryptoSwift-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CryptoSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CryptoSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CryptoSwift-master.swiftdeps"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/AEAD/AEAD.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEAD.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEAD.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEAD.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/AEAD/AEADChaCha20Poly1305.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEADChaCha20Poly1305.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEADChaCha20Poly1305.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEADChaCha20Poly1305.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/AEAD/AEADXChaCha20Poly1305.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEADXChaCha20Poly1305.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEADXChaCha20Poly1305.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AEADXChaCha20Poly1305.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/AES.Cryptors.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/AES.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ASN1/ASN1.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ASN1/ASN1Decoder.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Decoder.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Decoder.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Decoder.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ASN1/ASN1Encoder.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Encoder.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Encoder.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Encoder.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ASN1/ASN1Scanner.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Authenticator.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Authenticator.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Authenticator.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Authenticator.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BatchedCollection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BatchedCollection.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BatchedCollection.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BatchedCollection.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Bit.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Bit.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Bit.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Bit.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockCipher.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockDecryptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockEncryptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockEncryptor.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockEncryptor.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockEncryptor.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockMode.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockMode.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockMode.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockMode.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockModeOptions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockModeOptions.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockModeOptions.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockModeOptions.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CBC.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CBC.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CBC.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CCM.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CCM.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CCM.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CFB.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CFB.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CFB.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CipherModeWorker.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CipherModeWorker.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CipherModeWorker.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CTR.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CTR.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CTR.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/GCM.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/GCM.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/GCM.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/OCB.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/OCB.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/OCB.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/OFB.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/OFB.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/OFB.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PCBC.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PCBC.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PCBC.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Blowfish.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Blowfish.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Blowfish.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Blowfish.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CBCMAC.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CBCMAC.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CBCMAC.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CBCMAC.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ChaCha20.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ChaCha20.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ChaCha20.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ChaCha20.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Checksum.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Checksum.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Checksum.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Checksum.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Cipher.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cipher.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cipher.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cipher.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CMAC.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CMAC.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CMAC.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CMAC.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Collection+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Collection+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Collection+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Collection+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CompactMap.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CompactMap.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CompactMap.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CompactMap.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Cryptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptor.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptor.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptor.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Cryptors.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Addition.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Addition.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Addition.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Addition.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/BigInt.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BigInt.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BigInt.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BigInt.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/BigUInt.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BigUInt.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BigUInt.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/BigUInt.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Bitwise Ops.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Bitwise Ops.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Bitwise Ops.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Bitwise Ops.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Codable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Codable.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Codable.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Codable.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Comparable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/CS.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CS.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CS.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/CS.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Data Conversion.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data Conversion.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data Conversion.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data Conversion.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Division.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Division.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Division.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Division.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Exponentiation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Exponentiation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Exponentiation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Exponentiation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Floating Point Conversion.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/GCD.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/GCD.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/GCD.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/GCD.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Hashable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Hashable.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Hashable.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Hashable.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Integer Conversion.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Integer Conversion.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Integer Conversion.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Integer Conversion.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Multiplication.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Multiplication.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Multiplication.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Multiplication.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Prime Test.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Prime Test.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Prime Test.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Prime Test.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Random.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Random.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Random.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Random.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Shifts.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Shifts.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Shifts.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Shifts.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Square Root.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Square Root.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Square Root.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Square Root.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Strideable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Strideable.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Strideable.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Strideable.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/String Conversion.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String Conversion.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String Conversion.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String Conversion.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Subtraction.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Subtraction.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Subtraction.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Subtraction.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Words and Bits.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Words and Bits.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Words and Bits.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Words and Bits.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Digest.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Digest.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Digest.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Digest.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/DigestType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/DigestType.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/DigestType.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/DigestType.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/AES+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/Array+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/Blowfish+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Blowfish+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Blowfish+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Blowfish+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/ChaCha20+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ChaCha20+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ChaCha20+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ChaCha20+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/HMAC+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HMAC+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HMAC+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HMAC+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/Rabbit+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Rabbit+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Rabbit+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Rabbit+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/String+FoundationExtension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String+FoundationExtension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String+FoundationExtension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String+FoundationExtension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/Utils+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Utils+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Utils+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Utils+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/XChaCha20+Foundation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/XChaCha20+Foundation.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/XChaCha20+Foundation.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/XChaCha20+Foundation.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Generics.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Generics.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Generics.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Generics.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/HKDF.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HKDF.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HKDF.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HKDF.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/HMAC.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HMAC.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HMAC.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/HMAC.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Int+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Int+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Int+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Int+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ISO10126Padding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ISO10126Padding.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ISO10126Padding.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ISO10126Padding.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ISO78164Padding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ISO78164Padding.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ISO78164Padding.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ISO78164Padding.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/MD5.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/MD5.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/MD5.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/MD5.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/NoPadding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/NoPadding.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/NoPadding.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/NoPadding.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Operators.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Operators.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Operators.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Operators.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Padding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Padding.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Padding.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Padding.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/PEM/DER.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PBKDF1.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PBKDF1.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PBKDF1.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF2.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PBKDF2.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PBKDF2.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PBKDF2.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS1v15.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS1v15.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS1v15.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS1v15.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS5.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS5.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS5.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS5.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS7.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS7.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS7.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS7.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS7Padding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS7Padding.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS7Padding.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/PKCS7Padding.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Poly1305.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Poly1305.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Poly1305.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Poly1305.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Rabbit.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Rabbit.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Rabbit.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Rabbit.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/RSA/RSA.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/RSA/RSA+Cipher.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/RSA/RSA+Signature.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Scrypt.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/SecureBytes.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SecureBytes.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SecureBytes.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SecureBytes.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/SHA1.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA1.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA1.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA1.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/SHA2.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA2.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA2.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA2.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/SHA3.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA3.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA3.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/SHA3.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Signature.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Signature.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Signature.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Signature.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/StreamDecryptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/StreamDecryptor.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/StreamDecryptor.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/StreamDecryptor.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/StreamEncryptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/StreamEncryptor.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/StreamEncryptor.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/StreamEncryptor.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/String+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/String+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/UInt8+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt8+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt8+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt8+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/UInt16+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt16+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt16+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt16+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/UInt32+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt32+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt32+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt32+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/UInt64+Extension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt64+Extension.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt64+Extension.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt64+Extension.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/UInt128.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt128.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt128.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/UInt128.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Updatable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Updatable.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Updatable.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Updatable.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/Utils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Utils.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Utils.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/Utils.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/XChaCha20.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/XChaCha20.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/XChaCha20.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/XChaCha20.o"
+  },
+  "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/Pods/CryptoSwift/Sources/CryptoSwift/ZeroPadding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ZeroPadding.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ZeroPadding.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/CryptoSwift.build/Objects-normal/arm64/ZeroPadding.o"
+  }
+}

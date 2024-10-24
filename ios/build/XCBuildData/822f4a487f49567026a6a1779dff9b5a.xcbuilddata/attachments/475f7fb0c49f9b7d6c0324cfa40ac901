@@ -1,0 +1,3 @@
+#!/bin/sh
+"${PODS_ROOT}/Target Support Files/PayUIndia-AssetLibrary/PayUIndia-AssetLibrary-xcframeworks.sh"
+

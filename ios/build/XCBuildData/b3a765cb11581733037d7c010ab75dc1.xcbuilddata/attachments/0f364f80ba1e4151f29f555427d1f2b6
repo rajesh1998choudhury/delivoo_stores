@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/mobile_scanner-master.swiftdeps"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/mobile_scanner-2.1.0/ios/Classes/SwiftMobileScanner.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/SwiftMobileScanner.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/SwiftMobileScanner.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/SwiftMobileScanner.o"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/mobile_scanner-2.1.0/ios/Classes/SwiftMobileScannerPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/SwiftMobileScannerPlugin.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/SwiftMobileScannerPlugin.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/SwiftMobileScannerPlugin.o"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/mobile_scanner-2.1.0/ios/Classes/Util.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/Util.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/Util.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/mobile_scanner.build/Objects-normal/arm64/Util.o"
+  }
+}

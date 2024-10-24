@@ -1,0 +1,11 @@
+framework module payu_checkoutpro_flutter {
+  umbrella header "payu_checkoutpro_flutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module payu_checkoutpro_flutter.Swift {
+  header "payu_checkoutpro_flutter-Swift.h"
+  requires objc
+}

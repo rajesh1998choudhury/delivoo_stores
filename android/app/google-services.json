@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564962158945",
+    "project_id": "alphastores-51e07",
+    "storage_bucket": "alphastores-51e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564962158945:android:be0d3bc620d980a632bd20",
+        "android_client_info": {
+          "package_name": "com.kisanserv.stores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564962158945-nvjemsnen8au2b1bt3eo633jr4v44566.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXodj3BCo7ZtFl7Gd1BRcrl7g9ahtaFNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564962158945-nvjemsnen8au2b1bt3eo633jr4v44566.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

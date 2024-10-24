@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/platform_device_id-master.swiftconstvalues",
+    "dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/platform_device_id-master.d",
+    "diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/platform_device_id-master.dia",
+    "emit-module-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/platform_device_id-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/platform_device_id-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/platform_device_id-master.swiftdeps"
+  },
+  "/Users/praveentiwary/Project/flutter/.pub-cache/hosted/pub.dartlang.org/platform_device_id-1.0.1/ios/Classes/SwiftPlatformDeviceIdPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/SwiftPlatformDeviceIdPlugin.o",
+    "llvm-bc" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/SwiftPlatformDeviceIdPlugin.bc",
+    "object" : "/Volumes/D drive/Kisanserv_Store_iOS/delivoo_stores/ios/build/Pods.build/Release-iphoneos/platform_device_id.build/Objects-normal/arm64/SwiftPlatformDeviceIdPlugin.o"
+  }
+}

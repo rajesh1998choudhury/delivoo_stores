@@ -1,0 +1,5 @@
+ extern const unsigned char payu_checkoutpro_flutterVersionString[];
+ extern const double payu_checkoutpro_flutterVersionNumber;
+
+ const unsigned char payu_checkoutpro_flutterVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:payu_checkoutpro_flutter  PROJECT:Pods-1" "\n";
+ const double payu_checkoutpro_flutterVersionNumber __attribute__ ((used)) = (double)1.;
