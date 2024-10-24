@@ -6,7 +6,7 @@ import 'package:delivoo_stores/Chat/UI/animated_bottom_bar.dart';
 import 'package:delivoo_stores/OrderItemAccount/Order/UI/OrderTab.dart';
 import 'package:delivoo_stores/Pages/category.dart';
 import 'package:delivoo_stores/StoreOrdering/Pages/store_category_main_page.dart';
-import 'package:delivoo_stores/StoreOrdering/Pages/store_category_page.dart';
+// import 'package:delivoo_stores/StoreOrdering/Pages/store_category_page.dart';
 import 'package:delivoo_stores/Utils/CommonWidget.dart';
 import 'package:delivoo_stores/main.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
