@@ -1,0 +1,1 @@
+# delivoo_stores
